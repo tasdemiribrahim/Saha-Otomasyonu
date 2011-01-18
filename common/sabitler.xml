@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sabitler>
+    <konumTuru>
+      <musteri>0</musteri>
+      <tedarikci>1</tedarikci>
+      <musteri_tedarikci>2</musteri_tedarikci>
+    </konumTuru>
+    <stokTuru>
+      <hammadde>0</hammadde>
+      <yarimamul>1</yarimamul>
+      <mamul>2</mamul>
+    </stokTuru>
+	<gizliAnahtar>
+		IRKG
+	</gizliAnahtar>
+</sabitler>
